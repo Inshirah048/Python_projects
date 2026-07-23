@@ -28,9 +28,9 @@ The main goal of this project was not to build a real banking application, but t
 ```
 Bank-Account-System/
 │
-├── main.py          # Demonstrates OOP concepts with sample scenarios
-├── interactive.py   # Allows users to interact with the banking system
-├── bank_account.py  # Account-related classes
+├── main.py          
+├── interactive.py   
+├── bank_account.py  
 └── README.md
 ```
 
