@@ -24,13 +24,15 @@ The main goal of this project was not to build a real banking application, but t
   - `__eq__`
 
 ## Project Structure
+
+```
 Bank-Account-System/
 │
-├── main.py # Demonstrates OOP concepts with sample scenarios
-├── interactive.py # Allows users to interact with the banking system
-├── bank_account.py # Account-related classes
+├── main.py          # Demonstrates OOP concepts with sample scenarios
+├── interactive.py   # Allows users to interact with the banking system
+├── bank_account.py  # Account-related classes
 └── README.md
-
+```
 
 ## OOP Concepts Used
 
@@ -47,18 +49,25 @@ The account balance is protected and can only be modified through controlled met
 Different account types implement their own withdrawal behavior according to their rules.
 
 ## How to Run
+
 Clone the repository and run:
+
+```bash
 python main.py
+```
 
 For the interactive version:
+
+```bash
 python interactive.py
+```
 
 ## What I Practiced From This Project
 
-Through this project, I practiced
+Through this project, I practiced:
 
-Designing classes and objects in Python
-Understanding relationships between classes
-Applying OOP principles to a real-world scenario
-Using abstract classes and custom exceptions
-Writing cleaner and more maintainable Python code
+- Designing classes and objects in Python
+- Understanding relationships between classes
+- Applying OOP principles to a real-world scenario
+- Using abstract classes and custom exceptions
+- Writing cleaner and more maintainable Python code
