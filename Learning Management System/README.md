@@ -1,4 +1,4 @@
-# Learning Management System (Python OOP)
+# Learning Management System 
 
 A simple Learning Management System built using Python to practice Object-Oriented Programming concepts and understand how real-world systems can be designed using classes and objects.
 
@@ -31,9 +31,9 @@ Role-based access control is implemented to ensure that users can only perform a
 ```
 Learning_Management_System/
 │
-├── main.py          # Demonstrates system functionality
-├── interactive.py   # CLI version for user interaction
-├── lms.py           # User, Student, Lecturer classes and custom exceptions
+├── main.py          
+├── interactive.py  
+├── lms.py           
 └── README.md
 ```
 
