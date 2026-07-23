@@ -7,7 +7,7 @@ The main purpose of these projects is to apply Python concepts in practical scen
 ## Projects
 
 ### 🏦 Bank Account System
-[View Project](./Bank_Account_oop)
+[View Project](./Bank Account System)
 
 A small banking system simulation built using Python OOP principles.
 
@@ -22,7 +22,7 @@ The project includes different account types such as Savings and Current account
 
 
 ### 🎓 Learning Management System
-[View Project](./Learning_Management_System)
+[View Project](./Learning Management System)
 
 A simple Learning Management System that manages students and lecturers with different levels of access.
 
